@@ -6,7 +6,7 @@
 📂 My Projects - [🧮 Python Calculator](https://github.com/datawith-haji/python-calculator)     
 Basic calculator project using Python. My first step in the journey. 
 ---  ## 🌱 What I'm learning now: - Python for Data Analysis - Pandas & NumPy - Freelancing, GitHub & Networking - Power BI and SQL soon...
----  ## 📬 Let's Connect - 💼 [LinkedIn](https://www.linkedin.com/) (Coming soon) -
+---  ## 📬 Let's Connect - 💼 [LinkedIn](https://www.linkedin.com/in/haji-mastan-mohammed-a7b029369) -
 🐍 GitHub: [@datawith-haji](https://github.com/datawith-haji) 
 ---  > 🔥 “Consistency is greater than talent.” – Let’s grow together.  
 #mydream
